@@ -6,11 +6,11 @@
         xmlns:local="clr-namespace:ImageMetaInfo"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
+    <Grid Name="myGrid">
 
-        <Image Name="image" Margin="62,25,224,65"/>
-        <Button Content="Load Image" HorizontalAlignment="Left" Margin="141,272,0,0" VerticalAlignment="Top" Width="75"/>
-
+        <Image Name="image" Height ="150" Width="200"/>
+        <Button x:Name="changeButton"  Content="Change Image" HorizontalAlignment="Center" Margin="0,272,0,0" VerticalAlignment="Top" Width="95" Click="clickedChange"/>
+        <TextBlock x:Name="metaText" HorizontalAlignment="Left" Margin="22,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="200" Width="132"/>
 
     </Grid>
 </Window>

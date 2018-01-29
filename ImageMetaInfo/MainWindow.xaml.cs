@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.IO;
+using Microsoft.Win32;
 
 
 //Создайте настраиваемый элемент управления,
@@ -29,23 +30,31 @@ namespace ImageMetaInfo
         public MainWindow()
         {
             InitializeComponent();
+            
+            
+            
+        }
 
-            MetaCustomData infoImage = new MetaCustomData();
-
-            var fullFilePath = @"C:\Users\Мухамедьян\Downloads\1.jpg";
-
-
-            using (FileStream fileStream = new FileStream(fullFilePath, FileMode.Open, FileAccess.Read))
+        private void clickedChange(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog op = new OpenFileDialog();
+            op.Title = "Select a picture";
+            op.Filter = "All supported graphics|*.jpg;*.jpeg;*.png|" +
+              "JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|" +
+              "Portable Network Graphic (*.png)|*.png";
+            if (op.ShowDialog() == true)
             {
-                BitmapFrame bitmapFrame = BitmapFrame.Create(fileStream, BitmapCreateOptions.DelayCreation, BitmapCacheOption.None);
-                BitmapMetadata bitmapMetadata = bitmapFrame.Metadata as BitmapMetadata;
-
-
-                MessageBox.Show(bitmapMetadata.Format);
-
-
-
+                image.Source = new BitmapImage(new Uri(op.FileName));
             }
+            BitmapSource img = BitmapFrame.Create(new Uri(op.FileName));
+            BitmapMetadata md = (BitmapMetadata)img.Metadata;
+
+            metaText.Text += "Format: " + md.Format;
+            metaText.Text += "\n" + "Date taken: " + md.DateTaken;
+            metaText.Text += "\n" + "Location: " + md.Comment;
+
+
+
         }
     }
 }

@@ -12,3 +12,17 @@ c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\Ima
 c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo.exe
 c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo.pdb
 c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo.csprojResolveAssemblyReference.cache
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\bin\Debug\ImageMetaInfo.exe.config
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\ImageMetaInfo.exe
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\ImageMetaInfo.pdb
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\bin\Debug\ImageMetaInfo.exe
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\bin\Debug\ImageMetaInfo.pdb
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\ImageMetaInfo.csprojResolveAssemblyReference.cache
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\MainWindow.g.cs
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\App.g.cs
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\ImageMetaInfo_MarkupCompile.cache
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\ImageMetaInfo_MarkupCompile.lref
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\MainWindow.baml
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\ImageMetaInfo.g.resources
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\ImageMetaInfo.Properties.Resources.resources
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\ImageMetaInfo\obj\Debug\ImageMetaInfo.csproj.GenerateResource.Cache

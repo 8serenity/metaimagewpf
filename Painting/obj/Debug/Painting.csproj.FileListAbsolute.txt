@@ -12,3 +12,6 @@ c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Pai
 c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting.csproj.GenerateResource.Cache
 c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting.exe
 c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting.pdb
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\Painting\bin\Debug\Painting.exe.config
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\Painting\obj\Debug\Painting.exe
+C:\Users\serenity\Documents\Visual Studio 2015\Projects\MetaWpfImage\Painting\obj\Debug\Painting.pdb
