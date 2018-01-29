@@ -1,0 +1,14 @@
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\bin\Debug\Painting.exe.config
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\bin\Debug\Painting.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\bin\Debug\Painting.pdb
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting.csprojResolveAssemblyReference.cache
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\MainWindow.g.cs
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\App.g.cs
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting_MarkupCompile.cache
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting_MarkupCompile.lref
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\MainWindow.baml
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting.g.resources
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting.Properties.Resources.resources
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting.csproj.GenerateResource.Cache
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Painting\Painting\obj\Debug\Painting.pdb

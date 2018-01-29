@@ -1,0 +1,14 @@
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\bin\Debug\ImageMetaInfo.exe.config
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\bin\Debug\ImageMetaInfo.exe
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\bin\Debug\ImageMetaInfo.pdb
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\MainWindow.g.cs
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\App.g.cs
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo_MarkupCompile.cache
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo_MarkupCompile.lref
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\MainWindow.baml
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo.g.resources
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo.Properties.Resources.resources
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo.csproj.GenerateResource.Cache
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo.exe
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo.pdb
+c:\Users\мухамедьян\documents\visual studio 2017\Projects\Painting\ImageMetaInfo\obj\Debug\ImageMetaInfo.csprojResolveAssemblyReference.cache
